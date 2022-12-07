@@ -1,6 +1,9 @@
 # touchguild-sample-bot
 A simple Open-Source TouchGuild bot. (Typescript)
 
+### NOTE: This project uses TouchGuild v0.1.6 which is an outdated version, typings may vary on newer versions.
+I didn't plan to update this repository for now, maybe later!
+
 # Instructions
 
 1. Download the `.zip` file.
